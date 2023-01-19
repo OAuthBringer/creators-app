@@ -10,7 +10,7 @@
     "test:ci": "jest --ci"
   },
   "dependencies": {
-    "@brave/leo": "github:brave-experiments/leo#main",
+    "@brave/leo": "github:brave-experiments/leo#27e9e554a75722b0f2fa8c0e83492527ac6d1fa2",
     "@headlessui/react": "^1.6.6",
     "@heroicons/react": "^1.0.6",
     "json-schema-to-typescript": "^11.0.2",
